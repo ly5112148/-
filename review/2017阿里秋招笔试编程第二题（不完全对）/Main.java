@@ -4,7 +4,14 @@ import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
-
+/* 
+ * 示例数据
+10 20 30
+3
+1000 10 10 30
+500 10 10 20
+600 8 10 20
+ */
 public class Main {
 	/** 请完成下面这个process函数，实现题目要求的功能 **/
 	/** 当然，你也可以不按照这个模板来作答，完全按照自己的想法来 ^-^ **/
